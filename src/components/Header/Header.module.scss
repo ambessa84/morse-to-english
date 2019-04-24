@@ -1,0 +1,18 @@
+.logo {
+  height: 10vmin;
+  pointer-events: none;
+  float: left;
+}
+
+.header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.title {
+	flex: 1 1 auto;
+}
