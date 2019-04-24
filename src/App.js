@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-		<Main left="morsePanel" right="englishPanel" />
+		    <Main left="morsePanel" right="englishPanel" />
       </div>
     );
   }
